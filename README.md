@@ -37,3 +37,5 @@ The purpose of this project is to learn the basic logic of e-commerce websites, 
 ---
 
 ## Demo
+
+![](ımg/screen.gif)
